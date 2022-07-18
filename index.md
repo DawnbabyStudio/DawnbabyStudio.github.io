@@ -5,7 +5,7 @@
 ### Block Cat Puzzle
 Block Cat Puzzle is an innovative puzzle game. We have added many strategic elements to the classic puzzle gameplay, such as puzzle pieces can be rotated, mirrored, overlapped and cloned, which makes each puzzle very challenging and interesting.<br>
 #### Download
-[GooglePlay](https://play.google.com/store/apps/details?id=com.DawnbabyStudio.GridCat)
+[GooglePlay](https://play.google.com/store/apps/details?id=com.DawnbabyStudio.GridCat)    
 [AppStore](https://apps.apple.com/nl/app/block-cat-puzzle/id1572206026)
 
 ***
